@@ -45,8 +45,7 @@ void start_imu(void)
 	else
 	{
 		error = 404;
-		while (1)
-			;
+		while (1);
 	}
 
 	// Reset the whole module before initialization
