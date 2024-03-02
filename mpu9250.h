@@ -35,7 +35,7 @@
 // float LSB_Sensitivity_ACC;
 // float LSB_Sensitivity_GYRO;
 // uint16_t error;
-extern I2C_HandleTypeDef hi2c1;
+extern I2C_HandleTypeDef hi2c2;
 
 typedef struct _MPU9250
 {
